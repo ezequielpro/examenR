@@ -1,9 +1,9 @@
 [
   {
-    "precio": 9215,
+    "precio": 9909,
     "id": 1,
     "title": "DELL INSPIRON 5406 2EN1 i7 1165G7 1.7GHZ 8GB DDR4 512GB 14 TOUCH WIN10",
-    "imgen": "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2013/02/9347-tablets-convertibles-portatiles.jpg?itok=3652CBKl"
+    "imgen": "https://www.intelaf.com/images/productos/gran/DL-I1454067851T.jpg"
   },
   {
     "precio": 2115,
@@ -12,27 +12,51 @@
     "imgen": "https://www.intelaf.com/images/productos/gran/AMD-RYZ7-5800X.jpg"
   },
   {
-    "precio": 100,
+    "precio": 1675,
     "id": 3,
-    "title": "Agua",
-    "imgen": "https://picsum.photos/id/20/600"
+    "title": "MBOARD ASUS TUF GAMING B550-PLUS WIFI AMD 4xDDR4",
+    "imgen": "https://www.intelaf.com/images/productos/gran/MB-AS-TUGB550PW.jpg"
   },
   {
-    "precio": 50,
+    "precio": 833,
     "id": 4,
-    "title": "Sandía",
-    "imgen": "https://picsum.photos/id/30/600"
+    "title": "KINGSTON DDR4 16G 3200 FURY RGB HX432C16FB3A/16-TW",
+    "imgen": "https://www.intelaf.com/images/productos/gran/DDR416KNHFR320.jpg"
   },
   {
-    "precio": 10,
+    "precio": 1380,
     "id": 5,
-    "title": "Mango",
-    "imgen": "https://picsum.photos/id/40/600"
+    "title": "MULTIFUNCIONAL HP SMARTANK 500 SISTEMA CONT 11NEG 5 COL PPM SCAN USB",
+    "imgen": "https://www.intelaf.com/images/productos/gran/MF-HP-SM500.jpg"
   },
   {
-    "precio": 11050,
+    "precio": 455,
     "id": 6,
-    "title": "Mac",
-    "imgen": "https://cnet1.cbsistatic.com/img/GDhAWyeDjsJq2ivumpDPUuS6WaU=/1200x675/2018/01/04/c2e2728c-ea45-47a7-8e3d-82153950a578/acer-swift-7-sf714-51t-right-facing.jpg"
+    "title": "RELOJ SAMSUNG FIT 2 NEGRO",
+    "imgen": "https://www.intelaf.com/images/productos/gran/RELOJ-SAM-FT2N.jpg"
+  }
+  {
+    "precio": 1651,
+    "id": 7,
+    "title": "CELULAR XIAOMI REDMI 9 6.53" 13MGPXL 4GB 64GB GRIS US",
+    "imgen": "https://www.intelaf.com/images/productos/gran/CEL-XI-R9464GU.jpg"
+  }
+  {
+    "precio": 220,
+    "id": 8,
+    "title": "CARGADOR HUAWEI CP37 2 PUERTOS PARA CARRO MAX40W USB-A NEGRO",
+    "imgen": "https://www.intelaf.com/images/productos/gran/RELOJ-SAM-FT2N.jpg"
+  }
+  {
+    "precio": 725,
+    "id": 9,
+    "title": "CASE CORSAIR 4000D CON VIDRIO TEMPLADO BLANCO SINFUENTE CC-9011199-WW ",
+    "imgen": "https://www.intelaf.com/images/productos/gran/CAS-COR-C4000DB.jpg"
+  }
+  {
+    "precio": 11800,
+    "id": 10,
+    "title": "PLAYSTATION 5 CON UN CONTROL CONSOLE",
+    "imgen": "https://www.intelaf.com/images/productos/gran/PS5-CONSOLE.jpg"
   }
 ]
